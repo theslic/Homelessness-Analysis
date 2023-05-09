@@ -1,6 +1,6 @@
 # Homelessness Analysis  
 ## Description  
-In this project we want to look into homelessness and analyze different factors on the different kinds of homelessness.  
+In this project we want to look into homelessness and analyze different factors on the different kinds of homelessness and what factors could lead to them.  
 
 ## Data  
 05b_analysis_file_update.csv  

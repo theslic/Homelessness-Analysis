@@ -8,4 +8,4 @@ HUD TO3 - 05b Analysis File - Data - Dictionary.csv
 These files are taken from HUD's report Market Predictors of Homelessness. The HUD TO3 dictionary is a description of all variables in the data set
 
 ## Data Preperation - Li_Homelessness_Data_Preparation.ipynb
-In this file we cleaned the data for ease of use. We first reduce the amount of columns we look at, then we renamed them to more easy to make them easier to understand and the removed empty and irrelevant data.
+In this file we cleaned the data for ease of use. We first reduce the amount of columns we look at, then we renamed them to more easy to make them easier to understand and the removed empty and irrelevant data. The cleaned data file is clean_homeless_data.csv
